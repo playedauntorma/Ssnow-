@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# And the snow fell
 
-You can use the [editor on GitHub](https://github.com/playedauntorma/Ssnow-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+And the snow fell and spread a beautiful white covering over the grave; but by the time the spring came, and the sun had melted it away again, her father had married another wife. This new wife had two daughters of her own, that she brought home with her; they were fair in face but foul at heart, and it was now a sorry time for the poor little girl. 'What does the good-for-nothing want in the parlour?' said they; 'they who would eat bread should first earn it; away with the kitchen-maid!' Then they took away her fine clothes, and gave her an old grey frock to put on, and laughed at her, and turned her into the kitchen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There she was forced to do hard work; to rise early before daylight, to bring the water, to make the fire, to cook and to wash. Besides that, the sisters plagued her in all sorts of ways, and laughed at her. In the evening when she was tired, she had no bed to lie down on, but was made to lie by the hearth among the ashes; and as this, of course, made her always dusty and dirty, they called her Ashputtel.
 
-### Markdown
+It happened once that the father was going to the fair, and asked his wife's daughters what he should bring them. 'Fine clothes,' said the first; 'Pearls and diamonds,' cried the second. 'Now, child,' said he to his own daughter, 'what will you have?' 'The first twig, dear father, that brushes against your hat when you turn your face to come homewards,' said she. Then he bought for the first two the fine clothes and pearls and diamonds they had asked for: and on his way home, as he rode through a green copse, a hazel twig brushed against him, and almost pushed off his hat: so he broke it off and brought it away; and when he got home he gave it to his daughter. Then she took it, and went to her mother's grave and planted it there; and cried so much that it was watered with her tears; and there it grew and became a fine tree. Three times every day she went to it and cried; and soon a little bird came and built its nest upon the tree, and talked with her, and watched over her, and brought her whatever she wished for.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Now it happened that the king of that land held a feast, which was to last three days; and out of those who came to it his son was to choose a bride for himself. Ashputtel's two sisters were asked to come; so they called her up, and said, 'Now, comb our hair, brush our shoes, and tie our sashes for us, for we are going to dance at the king's feast.' Then she did as she was told; but when all was done she could not help crying, for she thought to herself, she should so have liked to have gone with them to the ball; and at last she begged her mother very hard to let her go. 'You, Ashputtel!' said she; 'you who have nothing to wear, no clothes at all, and who cannot even dance--you want to go to the ball? And when she kept on begging, she said at last, to get rid of her, 'I will throw this dishful of peas into the ash-heap, and if in two hours' time you have picked them all out, you shall go to the feast too.'
+![m](https://portugalinews.eu/wp-content/uploads/2019/02/weather.jpg)
+Then she threw the peas down among the ashes, but the little maiden ran out at the back door into the garden, and cried out:
 
-```markdown
-Syntax highlighted code block
+'Hither, hither, through the sky, Turtle-doves and linnets, fly! Blackbird, thrush, and chaffinch gay, Hither, hither, haste away! One and all come help me, quick! Haste ye, haste ye!--pick, pick, pick!'
 
-# Header 1
-## Header 2
-### Header 3
+Then first came two white doves, flying in at the kitchen window; next came two turtle-doves; and after them came all the little birds under heaven, chirping and fluttering in: and they flew down into the ashes. And the little doves stooped their heads down and set to work, pick, pick, pick; and then the others began to pick, pick, pick: and among them all they soon picked out all the good grain, and put it into a dish but left the ashes. Long before the end of the hour the work was quite done, and all flew out again at the windows.
 
-- Bulleted
-- List
+Then Ashputtel brought the dish to her mother, overjoyed at the thought that now she should go to the ball. But the mother said, 'No, no! you slut, you have no clothes, and cannot dance; you shall not go.' And when Ashputtel begged very hard to go, she said, 'If you can in one hour's time pick two of those dishes of peas out of the ashes, you shall go too.' And thus she thought she should at least get rid of her. So she shook two dishes of peas into the ashes.
 
-1. Numbered
-2. List
+But the little maiden went out into the garden at the back of the house, and cried out as before:
 
-**Bold** and _Italic_ and `Code` text
+'Hither, hither, through the sky, Turtle-doves and linnets, fly! Blackbird, thrush, and chaffinch gay, Hither, hither, haste away! One and all come help me, quick! Haste ye, haste ye!--pick, pick, pick!'
 
-[Link](url) and ![Image](src)
-```
+Then first came two white doves in at the kitchen window; next came two turtle-doves; and after them came all the little birds under heaven, chirping and hopping about. And they flew down into the ashes; and the little doves put their heads down and set to work, pick, pick, pick; and then the others began pick, pick, pick; and they put all the good grain into the dishes, and left all the ashes. Before half an hour's time all was done, and out they flew again. And then Ashputtel took the dishes to her mother, rejoicing to think that she should now go to the ball. But her mother said, 'It is all of no use, you cannot go; you have no clothes, and cannot dance, and you would only put us to shame': and off she went with her two daughters to the ball.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Now when all were gone, and nobody left at home, Ashputtel went sorrowfully and sat down under the hazel-tree, and cried out:
 
-### Jekyll Themes
+'Shake, shake, hazel-tree, Gold and silver over me!'
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/playedauntorma/Ssnow-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Then her friend the bird flew out of the tree, and brought a gold and silver dress for her, and slippers of spangled silk; and she put them on, and followed her sisters to the feast. But they did not know her, and thought it must be some strange princess, she looked so fine and beautiful in her rich clothes; and they never once thought of Ashputtel, taking it for granted that she was safe at home in the dirt.
 
-### Support or Contact
+The king's son soon came up to her, and took her by the hand and danced with her, and no one else: and he never left her hand; but when anyone else came to ask her to dance, he said, 'This lady is dancing with me.'
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thus they danced till a late hour of the night; and then she wanted to go home: and the king's son said, 'I shall go and take care of you to your home'; for he wanted to see where the beautiful maiden lived. But she slipped away from him, unawares, and ran off towards home; and as the prince followed her, she jumped up into the pigeon-house and shut the door. Then he waited till her father came home, and told him that the unknown maiden, who had been at the feast, had hid herself in the pigeon-house. But when they had broken open the door they found no one within; and as they came back into the house, Ashputtel was lying, as she always did, in her dirty frock by the ashes, and her dim little lamp was burning in the chimney. For she had run as quickly as she could through the pigeon-house and on to the hazel-tree, and had there taken off her beautiful clothes, and put them beneath the tree, that the bird might carry them away, and had lain down again amid the ashes in her little grey frock.
+
+The next day when the feast was again held, and her father, mother, and sisters were gone, Ashputtel went to the hazel-tree, and said:
+
+'Shake, shake, hazel-tree, Gold and silver over me!'
+
+And the bird came and brought a still finer dress than the one she had worn the day before. And when she came in it to the ball, everyone wondered at her beauty: but the king's son, who was waiting for her, took her by the hand, and danced with her; and when anyone asked her to dance, he said as before, 'This lady is dancing with me.'
+
+When night came she wanted to go home; and the king's son followed here as before, that he might see into what house she went: but she sprang away from him all at once into the garden behind her father's house. In this garden stood a fine large pear-tree full of ripe fruit; and Ashputtel, not knowing where to hide herself, jumped up into it without being seen. Then the king's son lost sight of her, and could not find out where she was gone, but waited till her father came home, and said to him, 'The unknown lady who danced with me has slipped away, and I think she must have sprung into the pear-tree.' The father thought to himself, 'Can it be Ashputtel?' So he had an axe brought; and they cut down the tree, but found no one upon it. And when they came back into the kitchen, there lay Ashputtel among the ashes; for she had slipped down on the other side of the tree, and carried her beautiful clothes back to the bird at the hazel-tree, and then put on her little grey frock.
+
+The third day, when her father and mother and sisters were gone, she went again into the garden, and said:
+
+'Shake, shake, hazel-tree, Gold and silver over me!'
+
+Then her kind friend the bird brought a dress still finer than the former one, and slippers which were all of gold: so that when she came to the feast no one knew what to say, for wonder at her beauty: and the king's son danced with nobody but her; and when anyone else asked her to dance, he said, 'This lady is /my/ partner, sir.'
+
+When night came she wanted to go home; and the king's son would go with her, and said to himself, 'I will not lose her this time'; but, however, she again slipped away from him, though in such a hurry that she dropped her left golden slipper upon the stairs.
+
+The prince took the shoe, and went the next day to the king his father, and said, 'I will take for my wife the lady that this golden slipper fits.' Then both the sisters were overjoyed to hear it; for they had beautiful feet, and had no doubt that they could wear the golden slipper. The eldest went first into the room where the slipper was, and wanted to try it on, and the mother stood by. But her great toe could not go into it, and the shoe was altogether much too small for her. Then the mother gave her a knife, and said, 'Never mind, cut it off; when you are queen you will not care about toes; you will not want to walk.' So the silly girl cut off her great toe, and thus squeezed on the shoe, and went to the king's son. Then he took her for his bride, and set her beside him on his horse, and rode away with her homewards.
